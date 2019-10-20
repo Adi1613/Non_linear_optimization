@@ -1,4 +1,4 @@
-# Non_linear_optimization
+# Past demand simulation(by solving non linear objective function)
 Simulation of actual demand of electricity load.
 
 
